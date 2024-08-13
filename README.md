@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/pinterest-clone.git
+git clone (https://github.com/yuvvvviiiiii/pinterest-mern)
 Navigate to the project directory:
 
 bash
