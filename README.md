@@ -1,5 +1,3 @@
-\
-
 Pinterest Clone
 Project Overview
 This project is a clone of the Pinterest platform, created using Express.js, MongoDB, Passport.js, Sessions, Mongoose.js and Multer. The primary goal of this project is to develop a fully functional backend with essential features like user authentication, image upload, and pin creation, while providing a front end that mirrors the original Pinterest design.
